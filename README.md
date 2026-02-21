@@ -27,12 +27,13 @@ Scalable backend architecture
 🏗️ System Architecture
 
 The application follows a typical three-tier architecture:
-
+```bash
 Frontend (Client)
     ↓ HTTP Requests
 Backend (Server/API)
     ↓ Database Queries
 Database (Persistent Storage)
+```
 
 Folder Structure
 ```bash
